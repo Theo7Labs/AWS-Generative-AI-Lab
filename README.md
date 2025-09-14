@@ -62,9 +62,6 @@ Host a web frontend using Amazon S3 and CloudFront.
 ⚠️ Known Issue: Fetch Error in AWS Sandbox
 
 During testing, I encountered a fetch failed error when trying to use the API Gateway endpoint from the hosted frontend.
-
-🖼️ Screenshot: (Add if you have one — a shot of the browser error or console log would be perfect)
-
 💡 Root Cause:
 
 This error was caused by sandbox limitations in the AWS Skill Builder environment — specifically:
